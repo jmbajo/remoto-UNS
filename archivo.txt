@@ -5,7 +5,7 @@ funcion3 {
 Soluciono el bug aca en la función 3
 Ac;a tambien lo soluciono
 ...
-...
+Pongo el color de las panto en rojo
 ..
 
 }
