@@ -15,6 +15,9 @@ Trabajo un poquito mas
 ...
 Alta de usuarios con todos los detalles que le gustan a Deb
 ..
+
 Implemento que el usuario pueda tener una foto de perfil asociada
+e integro la solución del problema del usuario
+
 
 }
