@@ -1,4 +1,4 @@
-Este es mi primer archivo versionado
+﻿Este es mi primer archivo versionado
 
 
 funcion3 {
@@ -18,6 +18,8 @@ Alta de usuarios con todos los detalles que le gustan a Deb
 
 Implemento que el usuario pueda tener una foto de perfil asociada
 e integro la solución del problema del usuario
+
+Juan UNS implemento algunas funcionalidades nuevas
 
 
 }
